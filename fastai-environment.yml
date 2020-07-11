@@ -1,0 +1,9 @@
+name: fastai-env
+channels:
+- conda-forge
+- defaults
+Dependencies:
+- python
+- notebook
+- pandas
+- numpy
